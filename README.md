@@ -1,4 +1,4 @@
-### Hi devs, meu nome é Sabrina  😸🧡
+### Hello devs, meu nome é Sabrina  😸🧡
 
 <!--
 **sabrinafpcruz/sabrinafpcruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
