@@ -1,6 +1,6 @@
 
 ## Hello everyone, meu nome é Sabrina Cruz! 🐈‍⬛💜
-> Sou programadora, formada em análise e desenvolvimento de dados e designer no tempo livre.
+> Sou programadora, certificada em análise e desenvolvimento de dados e designer no tempo livre.
 <p align="left">
   
   <a href="https://www.linkedin.com/in/sabrinafpcruz/" alt="Linkedin">
