@@ -1,6 +1,6 @@
 
 ## Hello everyone, meu nome é Sabrina Cruz! 🐈‍⬛💜
-> Sou programadora, estou cursando **Analise e Desenvolvimento de Sistemas** e **Design Gráfico** e técnica em análise e desenvolvimento de sistemas e designer no tempo livre.
+> Sou programadora, estou cursando **Analise e Desenvolvimento de Sistemas** e **Design Gráfico** e sou técnica em análise e desenvolvimento de sistemas.
 <p align="left">
   
   <a href="https://www.linkedin.com/in/sabrinafpcruz/" alt="Linkedin">
