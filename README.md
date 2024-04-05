@@ -1,6 +1,6 @@
 
 ## Hello everyone, meu nome é Sabrina Cruz! 🐈‍⬛💜
-> Sou programadora, certificada em análise e desenvolvimento de dados e designer no tempo livre.
+> Sou programadora, estou cursando **Analise e Desenvolvimento de Sistemas** e **Design Gráfico** e técnica em análise e desenvolvimento de sistemas e designer no tempo livre.
 <p align="left">
   
   <a href="https://www.linkedin.com/in/sabrinafpcruz/" alt="Linkedin">
@@ -15,7 +15,8 @@
 
 ## Sobre Mim 💬✨
  - 🚀 Adoro explorar novas tecnologias e desenvolvendo soluções.
- - 🌱 Aprendendo mais sobre **Python**, **Java** e **SQL**
+ - 💻 Possuo experiência em HTML, CSS, Python e um pouco de Java.
+ - 🌱 Aprendendo mais sobre **Javascript**, **Typescript** e **React**
  - 🐈‍ Amo gatos.
  - 📝 Possuo experiencia em design web, mobile, logos e estampas
 
@@ -26,6 +27,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-7f3ace?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-7f3ace?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-7f3ace?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/-Notion-7f3ace?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 
 <!--Status Github -->
